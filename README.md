@@ -39,7 +39,9 @@
 
   <a href="https://www.linkedin.com/in/mahendra-nandi-7038b8176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mahendranandi.rkma@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100070688703158" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100070688703158" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-2C2D72?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mahendranandi_504/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://mobile.twitter.com/MahendraNandi2" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/twitter-777BB4?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ![Git stats](https://github-readme-stats.vercel.app/api?username=mahendranandi&show_icons=true&hide=issues)
 
