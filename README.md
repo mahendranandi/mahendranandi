@@ -19,10 +19,12 @@
 <a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 <a target="_blank"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a target="_blank"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
+
 <a target="_blank"><img alt="Tensorflow" src="https://img.shields.io/badge/-tensorflow-777BB4?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 <a target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></a>
 <a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
 <a target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/-seaborn-EE4C2C?style=for-the-badge&logo=seaborn&logoColor=white" /></a>
+
 <a target="_blank"><img alt="ggplot" src="https://img.shields.io/badge/-ggplot-F7931E?style=for-the-badge&logo=ggplot&logoColor=white" /></a>
 <a target="_blank"><img alt="dplyr" src="https://img.shields.io/badge/-dplyr-2C2D72?style=for-the-badge&logo=dplyr&logoColor=white" /></a>
 
