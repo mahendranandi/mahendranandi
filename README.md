@@ -1,6 +1,6 @@
 ###  👋 Hi there
 ###   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Mahendra Nandi,
-🔭 I'm currently doing my master's in **Big Data Analytics**. Majorly focusing upon **CV,NLP,Machine Learning, Deep Learning,AI.**
+🔭 I'm currently doing my master's in **Big Data Analytics**. Majorly focusing upon **NLP,Machine Learning, Deep Learning,AI.**
 <p>
   <em>
     <b>Data Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> 
